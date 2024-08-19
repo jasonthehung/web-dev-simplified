@@ -15,6 +15,6 @@
   border: 2px solid black;
 }
 
-.box .clicked {
+.box.clicked {
   background-color: black;
 }
